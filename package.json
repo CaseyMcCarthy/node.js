@@ -1,0 +1,19 @@
+{
+  "name": "testrail_node_project",
+  "version": "1.0.0",
+  "description": "RESTful service for updating test runs in TestRail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaseyMcCarthy/node.js.git"
+  },
+  "author": "Casey McCarthy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CaseyMcCarthy/node.js/issues"
+  },
+  "homepage": "https://github.com/CaseyMcCarthy/node.js#readme"
+}
